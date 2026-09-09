@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文产品需求文档撰写"
+  short_description: "按团队模板撰写可复制的中文产品需求文档"
+  default_prompt: "使用 $prd-document-writer 按既定PRD结构输出可复制的中文需求文档。"
+
+policy:
+  allow_implicit_invocation: true
